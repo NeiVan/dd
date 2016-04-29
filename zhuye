@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>当当网-首页</title>
+		<link rel="stylesheet" type="text/css" href="" />
+		<script type="text/javascript" src=""></script>
+	</head>
+	<body>
+		<!-- 页面顶部  start  -->
+		<div id="hd">
+			<div class="tool">
+				<div class="ddnewhead_operate">
+					<div class="new_york">
+						<a href="#">纽交所上市公司</a>
+					</div>
+					<ul class="ddnewhead_operate_nav">
+						<li><a href="#" name="购物车" dd_name="购物车"><i class="icon_card"></i>购物车<b id="cart_items_head"></b></a></li>
+						<li><a href="#" name="我的订单" dd_name="我的订单"><i class="icon_card"></i>我的订单<b id="unpaid_num"></b></li>
+						<li><a href="#" dd_name="当当自出版">当当自出版</a></li>
+						<li><a href="#" dd_name="手机当当"><i class="iron_tel"></i>手机当当</a></li>
+						<li><a href="#" dd_name="我的当当">我的当当</a></li>
+						<li><a href="#" dd_name="企业采购">企业采购</a></li>
+						<li><a href="#" dd_name="客户服务">客户服务</a></li>
+					</ul>
+					<div class="ddnewhead_welcome">
+						<span id="nickname">
+							欢迎光临当当，请
+							<a href="#" dd_name="登录">登录</a>
+							<a href="#" dd_name="免费注册">免费注册</a>
+						</span>
+					</div>
+					<div class="ddnewhead_area">
+						<a href="#">送至<span id="curent_area">北京</span></a>
+					</div>
+				</div>
+			</div>
+			<div class="logo_line_out">
+				<div class="logo_line" dd_name="搜索框">
+					<div class="logo">
+						<img src="#" />
+					</div>
+					<div class="search">
+						<form action="#" method="get" name="">
+							<label></label>
+							<input  />
+							<span></span>
+							<input type="hidden" />
+							<input type="submit" />
+							<input type="hidden" />
+							<input type="button" />
+							<input type="button" />
+							<input type="submit" />
+							<input type="hidden" />
+							<input type="button" />
+						</form>
+					</div>
+					<div class="search_bottom">
+						<div>
+							<a href="#">热搜</a>
+							:
+							<a href="#">韩束</a>
+							<a href="#">鬼吹灯</a>
+							<a href="#">训狮少年</a>
+							<a href="#">58元疯抢礼券</a>
+							<a href="#">选好礼送给她</a>
+							<a href="#">海外购</a>
+						</div>
+						<a href="#" dd_name="高级搜索">高级搜索</a>
+					</div>
+					<div class="ddnew_card">
+						<a href="#" name="购物车" dd_name="购物车"><i></i>购物车<b>0</b></a>
+					</div>
+					<div class="ddnew_order">
+						<a href="#" name="我的订单" dd_name="我的订单">我的订单<b></b></a>
+					</div>
+				</div>
+			</div>
+			<div class="nav_top" dd_name="一级导航条">
+				<ul>
+					<li><a href="#" dd_name="全部商品详细分类">全部商品详细分类</a></li>
+					<li><a href="#" name="nav1">开学季</a></li>
+					<li><a href="#" name="nav1">尾品汇</a></li>
+					<li><a href="#" name="nav1">图书</a></li>
+					<li><a href="#" name="nav1">电子书</a></li>
+					<li><a href="#" name="nav1">服装</a></li>
+					<li><a href="#" name="nav1">运动户外</a></li>
+					<li><a href="#" name="nav1">孕婴童</a></li>
+					<li><a href="#" name="nav1">家居</a></li>
+					<li><a href="#" name="nav1">当当优品</a></li>
+					<li><a href="#" name="nav1">1号店超市</a></li>
+					<li><a href="#" name="nav1">海外购</a></li>
+					<li><a href="#" name="nav1">电器城</a></li>
+				</ul>
+			</div>
+		</div>
+		<!-- 页面顶部  end  -->
+		<!-- 页面内容 start -->
+		<div class="content"></div>
+		<!-- 页面内容 end -->
+		<!-- 页面尾部 start -->
+		<div id="footer">
+			<div class="footer_pic_new">
+				<div class="footer_pic_new_inner">
+					<a class="footer_pic01" name="foot_1" href="#" target="_blank"><span>正规渠道正品保障</span></a>
+					<a class="footer_pic02" name="foot_2" href="#" target="_blank"><span>放心购物货到付款</span></a>
+					<a class="footer_pic03" name="foot_3" href="#" target="_blank"><span>625城市次日到达</span></a>
+					<a class="footer_pic04" name="foot_4" href="#" target="_blank"><span>上门退货当面退款</span></a>
+				</div>
+			</div>
+			<div class="public_footer_new">
+				<div class="footer_short footer_nvice">
+					<span>购物指南</span>
+					<ul>
+						<li>购物流程</li>
+						<li>发票制度</li>
+						<li>账户管理</li>
+						<li>会员优惠</li>
+					</ul>
+				</div>
+				<div class="footer_short footer_pay">
+					<span>支付方式</span>
+					<ul>
+						<li>货到付款</li>
+						<li>网上购物</li>
+						<li>礼品卡支付</li>
+						<li>银行转账</li>
+					</ul>
+				</div>
+				<div class="footer_short footer_characteristic">
+					<span>订单服务</span>
+					<ul>
+						<li>订单配送查询</li>
+						<li>订单状态说明</li>
+						<li>自助取消订单</li>
+						<li>自助修改订单</li>
+					</ul>
+				</div>
+				<div class="footer_short footer_distribution">
+					<span>配送方式</span>
+					<ul>
+						<li>配送范围及免邮标准</li>
+						<li>当日递/次日达</li>
+						<li>订单自提</li>
+						<li>验货与签收</li>
+					</ul>
+				</div>
+				<div class="footer_short footer_help">
+					<span>退换货</span>
+					<ul>
+						<li>退换货政策</li>
+						<li>自助申请退换货</li>
+						<li>退换货进度查询</li>
+						<li>退换方式和时间</li>
+					</ul>
+				</div>
+				<div class="footer_short footer_shangjia">
+					<span>商家服务</span>
+					<ul>
+						<li>招商报名</li>
+						<li>商家中心</li>
+						<li>运营服务</li>
+						<li>加入尾品汇</li>
+					</ul>
+				</div>
+			</div>
+			<div class="footer_nav_box">
+				<div class="footer_nav">
+					<a href="#">公司简介</a>
+					<span>|</span>
+					<a href="#">Investor Relations</a>
+					<span>|</span>
+					<a href="#">网站联盟</a>
+					<span>|</span>
+					<a href="#">广告服务</a>
+					<span>|</span>
+					<a href="#">当当招商</a>
+					<span>|</span>
+					<a href="#">机构销售</a>
+					<span>|</span>
+					<a href="#">手机当当</a>
+					<span>|</span>
+					<a href="#">官方Blog</a>
+					<span>|</span>
+					<a href="#">热词搜索</a>
+				</div>
+				<div class="footer_copyright"><span>Copyright (C) 当当网 2004-2016, All Rights Reserved</span></div>
+				<div class="footer_copyright">
+					<span><a href="#">京ICP证041189号</a></span>
+					<span>|</span>
+					<span>出版物经营许可证 新出发京批字第直0673号</span>
+					<span>|</span>
+					<span>食品流通许可证：SP1101011010021855(1-1)</span>
+					<br/>
+				    <span>互联网药品信息服务资格证编号：(京)-非经营性-2012-0016</span>
+				    <span>|</span>
+				    <span>京公网安备110101000001号</span>
+				</div>
+				<div class="footer_iron footer_iron2">
+					<div><a href="#"><img src=""/></a></div>
+					<div><a href="#"><img src=""/></a></div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+		<!-- 页面尾部 end -->
+	</body>
+</html>
